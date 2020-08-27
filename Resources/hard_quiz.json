@@ -1,0 +1,77 @@
+
+{
+		"level" : "difficult",
+		"questions" : [
+			{
+			"text":"How many Great Lakes are there?",
+			"options":["5","6", "3", "4"],
+			"type" : "Image",
+			"imagePath" : "question3.png",
+			"answer": "Atlantic"
+			},
+			{
+			"text":"The biggest desert in the world is. . . ?",
+			"options":["Sahara","Arabian", "Great Australian", "Gobi"],
+			"type":"Image",
+			"imagePath" : "question10.png",
+			"answer": "Sahara"
+			},
+			{
+			"text":"What is the imaginary line called that connects the north and south pole",
+			"options":["Prime axis","Lambert line","Prime Meridian","Tropic of Cancer"],
+			"type":"Image",
+			"imagePath" : "question11.png",
+			"answer": "Prime Meridian"
+			},
+				{
+			"text":"How much is that __________?",
+			"options":["Cantoloupe","cantaloupe", "cantalupe", "cantaloup"],
+			"type":"MCQ",
+			"imagePath" : " ",
+			"answer": "Cantaloupe"
+			},
+			{
+			"text":"When does the next _________ start ?",
+			"options":["milennium","millennium","millenium","milenium"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "millennium"
+			},
+			{
+			"text":"This ________ is very persistent",
+			"options":["pigen","pigeon","pidgeon","pygeon"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "pigeon"
+			},
+				{
+			"text":" What is the name for information sent from robot sensors to robot controllers",
+			"options":["temperature","pressure", "feedback", "signal"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "feedback"
+			},
+			{
+			"text":"Which of the following terms refers to the rotational motion of a robot arm",
+			"options":["swivel","axle","retrograde","roll"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "roll"
+			},
+			{
+			"text":"What is the name for space inside which a robot unit operates?",
+			"options":["environment","spatial base", "work envelope", "exclusion zone"],
+			"type" : "MCQ",
+			"imagePath" : "",
+			"answer": "work envelope"
+			},
+			{
+			"text":"Which among the following is not the functionality of Robots ?",
+			"options":["Reprogrammability","Multifunctinality", "Efficient Performance", "Responsibility"],
+			"type" : "MCQ",
+			"imagePath" : "",
+			"answer": "Efficient Performance"
+			}
+			
+		]
+}

@@ -1,0 +1,76 @@
+
+{
+		"level" : "easy",
+		"questions" : [
+			{
+			"text":"Which is the world's highest mountain??",
+			"options":["K2","Kilimanjaro", "Mount Everest", "Makalu"],
+			"type" : "Image",
+			"imagePath" : "question1.png",
+			"answer": "Mount Everest"
+			},
+			{
+			"text":" ___________ is the capital of India ?",
+			"options":[],
+			"type" : "FTB",
+			"imagePath" : "",
+			"answer": "New Delhi"
+			},
+				{
+			"text":"Which is the longest river in the US?",
+			"options":["Missouri","Yukon", "Colorado", "Coloumbia"],
+			"type":"Image",
+			"imagePath" : "question4.png",
+			"answer": "Missouri"
+			},
+			{
+			"text":"Which of these cities is not in Europe?",
+			"options":["Barcelona","Prague", "Moscow", "Reykjavik"],
+			"type":"Image",
+			"imagePath" : "question5.png",
+			"answer": "Moscow"
+			},
+			{
+			"text":"Which of the following countries do not border France?",
+			"options":["Netherlands","Germany", "Spain", "Italy"],
+			"type":"Image",
+			"imagePath" : "question7.png",
+			"answer": "Netherlands"
+			},
+			{
+			"text":"Find the correct spelling?",
+			"options":["Aceelertae","Accelerate", "Acelerate", "Acceerate"],
+			"type" : "MCQ",
+			"imagePath" : "",
+			"answer": "Accelerate"
+			},
+			{
+			"text":" The poison of honey bee or ant is ______ in nature?",
+			"options":[],
+			"type" : "FTB",
+			"imagePath" : "",
+			"answer": "Acidic"
+			},
+			{
+			"text":" What type of creature is a tarantula?",
+			"options":["Spider","Octopus", "Butterfly", "Cockroach"],
+			"type" : "MCQ",
+			"imagePath" : "",
+			"answer": "Spider"
+			},
+			{
+			"text":"Musca domestica is the scientific name of ?",
+			"options":["Butterfly","Mosquito", "Housefly", "Cockroach"],
+			"type" : "MCQ",
+			"imagePath" : "",
+			"answer": "Housefly"
+			},
+			{
+			"text":" Find the correct spelling?",
+			"options":["Accessary","Accesary", "Acessary", "Accessary"],
+			"type" : "MCQ",
+			"imagePath" : "",
+			"answer": "Accessary"
+			}
+		]
+}

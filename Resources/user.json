@@ -1,0 +1,13 @@
+
+{
+		"students" : [
+			{
+			"user":"Ayush",
+			"password":"eQ@12345"
+			},
+			{
+			"user":"Prashul",
+			"password":"eQ@12345"
+			}
+		]
+}

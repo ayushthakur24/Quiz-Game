@@ -1,0 +1,77 @@
+
+{
+		"level" : "intermediate",
+		"questions" : [
+			{
+			"text":"Which ocean lies on the east coast of the United States?",
+			"options":["Atlantic","Pacific", "Indian", "Eastern"],
+			"type" : "Image",
+			"imagePath" : "question2.png",
+			"answer": "Atlantic"
+			},
+			{
+			"text":"The United Knigdom is comprised of how many countries?",
+			"options":["6","5", "4", "8"],
+			"type":"Image",
+			"imagePath" : "question6.png",
+			"answer": "4"
+			},
+			{
+			"text":"Find the correct spelling",
+			"options":["Abbreviate","Abreviate","Abrrviate","Abbriviat"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "Abbreviate"
+			},
+				{
+			"text":"Which is the smallest country, measured by total land area?",
+			"options":["Monaco","Vatican City", "Maldives", "Tuvalu"],
+			"type":"Image",
+			"imagePath" : "question8.png",
+			"answer": "Vatican city"
+			},
+			{
+			"text":"The study of insects is known as ?",
+			"options":["Etymology","Entomology","Ornithology","Osteology"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "Entomology"
+			},
+			{
+			"text":"What word best describes dinosaurs",
+			"options":["Extinct","Gentle","Friendly","Short"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "Extinct"
+			},
+				{
+			"text":" find correct spelling :",
+			"options":["Accomodate","Accommodate", "Accoomodate", "Acommodate"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "Accommodate"
+			},
+			{
+			"text":"find correct spelling :",
+			"options":["Acoompany","Accompany","Acommpany","Acompany"],
+			"type":"MCQ",
+			"imagePath" : "",
+			"answer": "Accompany"
+			},
+			{
+			"text":"What is the approximate size of Earth's equator?",
+			"options":["40,000 km","20,000 km", "30,000 km", "50,000 km"],
+			"type" : "MCQ",
+			"imagePath" : "question9.png",
+			"answer": "40,000 km"
+			},
+			{
+			"text":"How many pairs of legs do insects have?",
+			"options":["Two","Three", "Four", "Two or Three"],
+			"type" : "MCQ",
+			"imagePath" : "",
+			"answer": "Three"
+			}
+			
+		]
+}
